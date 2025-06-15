@@ -1,51 +1,12 @@
-🐺 FURIABOT - Portal do Fã
-Um portal interativo para fãs da FURIA Esports!
-Acesse informações sobre o time, próximos jogos, notícias, redes sociais e um chatbot divertido.
+# React + Vite
 
-🔥 Funcionalidades
-🤖 Chatbot da FURIA — Pergunte sobre jogadores, jogos e curiosidades.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-🏆 Calendário de Jogos — Veja os próximos confrontos.
+Currently, two official plugins are available:
 
-📰 Notícias e Redes — Acompanhe tudo em tempo real.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-👤 Perfil do Fã — Personalize sua experiência.
+## Expanding the ESLint configuration
 
-🚀 Tecnologias
-React
-
-JavaScript
-
-HTML + CSS (ou Tailwind)
-
-React Router DOM
-
-💻 Como Rodar o Projeto
-Clone o repositório:
-
-bash
-Copiar código
-git clone https://github.com/LarissaBCarv/portal-furia
-Acesse a pasta:
-
-bash
-Copiar código
-cd furiabot
-Instale as dependências:
-
-bash
-Copiar código
-npm install
-Inicie o projeto:
-
-bash
-Copiar código
-npm run dev
-🎯 Status
-🚧 Projeto em desenvolvimento
-
-🧠 Contribuição
-Sinta-se livre para contribuir! Sugestões e melhorias são bem-vindas.
-
-📜 Licença
-Este projeto está sob a licença MIT.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
