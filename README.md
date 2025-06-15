@@ -25,7 +25,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seuusuario/furiabot.git
+git clone https://github.com/LarissaBCarv/portal-furia
 Acesse a pasta:
 
 bash
